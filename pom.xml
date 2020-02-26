@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>interceptable-http-client</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
@@ -66,7 +66,7 @@
         <connection>scm:git:git@github.com:raphw/interceptable-http-client.git</connection>
         <developerConnection>scm:git:git@github.com:raphw/interceptable-http-client.git</developerConnection>
         <url>git@github.com:raphw/interceptable-http-client.git</url>
-        <tag>interceptable-http-client-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
